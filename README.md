@@ -1,5 +1,7 @@
 # Business Insights 360 - Power BI Dashboard
 
+[![MasterHead](https://res.cloudinary.com/degc3aacg/image/upload/Business_Insights_360_xkent7.png)](https://divyangpatel.in/#project)
+
 ## Overview
 
 **Business Insights 360** is a comprehensive Power BI dashboard developed for **AtliQ Hardwares**, a company specializing in computer hardware sales. This dashboard provides insights into **financial, sales, marketing, supply chain, and executive performance**, while also enabling an assessment of **forecast accuracy** and identifying areas for improvement.
